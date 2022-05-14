@@ -1,0 +1,322 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Free Text:Deice - CYHZ\1:freetext
+Free Text:Deice - CYHZ\2:freetext
+Free Text:Deice - CYHZ\3:freetext
+Free Text:Deice - CYHZ\4:freetext
+Free Text:Deice - CYQM\A:freetext
+Free Text:Deice - CYQM\B:freetext
+Free Text:Deice - CYQM\C:freetext
+Free Text:Deice - CYYT\1:freetext
+Free Text:Deice - CYYT\2:freetext
+Free Text:Deice - CYYT\3:freetext
+Free Text:Deice - CYYT\4:freetext
+Free Text:Gates - CYAW\H:freetext
+Free Text:Gates - CYAW\H:freetext
+Free Text:Gates - CYAW\H:freetext
+Free Text:Gates - CYAW\H:freetext
+Free Text:Gates - CYFC\1:freetext
+Free Text:Gates - CYFC\2:freetext
+Free Text:Gates - CYFC\3:freetext
+Free Text:Gates - CYFC\4:freetext
+Free Text:Gates - CYFC\5:freetext
+Free Text:Gates - CYFC\H:freetext
+Free Text:Gates - CYHZ\12:freetext
+Free Text:Gates - CYHZ\14:freetext
+Free Text:Gates - CYHZ\15:freetext
+Free Text:Gates - CYHZ\16:freetext
+Free Text:Gates - CYHZ\18:freetext
+Free Text:Gates - CYHZ\20:freetext
+Free Text:Gates - CYHZ\22:freetext
+Free Text:Gates - CYHZ\23:freetext
+Free Text:Gates - CYHZ\24:freetext
+Free Text:Gates - CYHZ\26:freetext
+Free Text:Gates - CYHZ\27:freetext
+Free Text:Gates - CYHZ\28:freetext
+Free Text:Gates - CYHZ\2A:freetext
+Free Text:Gates - CYHZ\2B:freetext
+Free Text:Gates - CYHZ\2C:freetext
+Free Text:Gates - CYHZ\2D:freetext
+Free Text:Gates - CYHZ\2E:freetext
+Free Text:Gates - CYHZ\3:freetext
+Free Text:Gates - CYHZ\301:freetext
+Free Text:Gates - CYHZ\302:freetext
+Free Text:Gates - CYHZ\303:freetext
+Free Text:Gates - CYHZ\304:freetext
+Free Text:Gates - CYHZ\305:freetext
+Free Text:Gates - CYHZ\306:freetext
+Free Text:Gates - CYHZ\36:freetext
+Free Text:Gates - CYHZ\38:freetext
+Free Text:Gates - CYHZ\42:freetext
+Free Text:Gates - CYHZ\46:freetext
+Free Text:Gates - CYHZ\5:freetext
+Free Text:Gates - CYHZ\6:freetext
+Free Text:Gates - CYHZ\7:freetext
+Free Text:Gates - CYHZ\8:freetext
+Free Text:Gates - CYHZ\9:freetext
+Free Text:Gates - CYQM\1A:freetext
+Free Text:Gates - CYQM\1B:freetext
+Free Text:Gates - CYQM\2:freetext
+Free Text:Gates - CYQM\3:freetext
+Free Text:Gates - CYQM\4:freetext
+Free Text:Gates - CYQM\5:freetext
+Free Text:Gates - CYQM\6A:freetext
+Free Text:Gates - CYQM\6B:freetext
+Free Text:Gates - CYQM\7A:freetext
+Free Text:Gates - CYQM\7B:freetext
+Free Text:Gates - CYQX\18:freetext
+Free Text:Gates - CYQX\20:freetext
+Free Text:Gates - CYQX\22:freetext
+Free Text:Gates - CYQX\24:freetext
+Free Text:Gates - CYQX\26:freetext
+Free Text:Gates - CYQX\28:freetext
+Free Text:Gates - CYQX\30:freetext
+Free Text:Gates - CYQX\32:freetext
+Free Text:Gates - CYQX\34:freetext
+Free Text:Gates - CYQX\36:freetext
+Free Text:Gates - CYYR\H:freetext
+Free Text:Gates - CYYR\H:freetext
+Free Text:Gates - CYYR\H:freetext
+Free Text:Gates - CYYR\H:freetext
+Free Text:Gates - CYYR\H:freetext
+Free Text:Gates - CYYR\H:freetext
+Free Text:Gates - CYYT\1:freetext
+Free Text:Gates - CYYT\10:freetext
+Free Text:Gates - CYYT\11:freetext
+Free Text:Gates - CYYT\12:freetext
+Free Text:Gates - CYYT\2:freetext
+Free Text:Gates - CYYT\3:freetext
+Free Text:Gates - CYYT\6:freetext
+Free Text:Gates - CYYT\7:freetext
+Free Text:Gates - CYYT\8:freetext
+Free Text:Gates - CYYT\9:freetext
+Free Text:Gates - CYYT\R1:freetext
+Free Text:Gates - CYYT\R2:freetext
+Free Text:Gates - CYYT\W2:freetext
+Free Text:Gates - CYYT\W3:freetext
+Free Text:Gates - CYZX\H:freetext
+Free Text:Gates - CYZX\H:freetext
+Free Text:Gates - LFVP\1-3:freetext
+Free Text:Gates - LFVP\4-6:freetext
+Free Text:Labels - CYAW\Apron 1:freetext
+Free Text:Labels - CYAW\Apron 2:freetext
+Free Text:Labels - CYAW\N Utility:freetext
+Free Text:Labels - CYAW\S Utility:freetext
+Free Text:Labels - CYAW\Tower:freetext
+Free Text:Labels - CYFC\Advanced Heli Flight:freetext
+Free Text:Labels - CYFC\Capital Airways:freetext
+Free Text:Labels - CYFC\Fuel Pumps:freetext
+Free Text:Labels - CYFC\Moncton Flight College:freetext
+Free Text:Labels - CYFC\Terminal:freetext
+Free Text:Labels - CYFC\Tower:freetext
+Free Text:Labels - CYHZ\Air Canada Mtce/Cargo:freetext
+Free Text:Labels - CYHZ\Airfield Mtce:freetext
+Free Text:Labels - CYHZ\Apron 1:freetext
+Free Text:Labels - CYHZ\Apron 2:freetext
+Free Text:Labels - CYHZ\Apron 3:freetext
+Free Text:Labels - CYHZ\Cougar Helis:freetext
+Free Text:Labels - CYHZ\Gateway FBO:freetext
+Free Text:Labels - CYHZ\Hangar 9:freetext
+Free Text:Labels - CYHZ\IMP Hangar 1:freetext
+Free Text:Labels - CYHZ\IMP Hangar 6/7:freetext
+Free Text:Labels - CYHZ\Jazz:freetext
+Free Text:Labels - CYHZ\PAL FBO/EHS:freetext
+Free Text:Labels - CYHZ\Shell/Innotech FBO:freetext
+Free Text:Labels - CYHZ\Terminal:freetext
+Free Text:Labels - CYHZ\Tower:freetext
+Free Text:Labels - CYQM\1:freetext
+Free Text:Labels - CYQM\2:freetext
+Free Text:Labels - CYQM\3:freetext
+Free Text:Labels - CYQM\4:freetext
+Free Text:Labels - CYQM\5:freetext
+Free Text:Labels - CYQM\7:freetext
+Free Text:Labels - CYQM\8:freetext
+Free Text:Labels - CYQM\Cargo:freetext
+Free Text:Labels - CYQM\FedEx:freetext
+Free Text:Labels - CYQM\Moncton Flight College:freetext
+Free Text:Labels - CYQM\Shell FBO:freetext
+Free Text:Labels - CYQM\Terminal:freetext
+Free Text:Labels - CYQM\Tower:freetext
+Free Text:Labels - CYQM\Transport Canada:freetext
+Free Text:Labels - CYQX\Apron 1:freetext
+Free Text:Labels - CYQX\Apron 2:freetext
+Free Text:Labels - CYQX\Apron 3:freetext
+Free Text:Labels - CYQX\Gander Aviation:freetext
+Free Text:Labels - CYQX\Military Apron:freetext
+Free Text:Labels - CYQX\Terminal:freetext
+Free Text:Labels - CYYR\Air Borealis:freetext
+Free Text:Labels - CYYR\Apron 1:freetext
+Free Text:Labels - CYYR\Apron 2:freetext
+Free Text:Labels - CYYR\Apron 3:freetext
+Free Text:Labels - CYYR\Apron 4:freetext
+Free Text:Labels - CYYR\Apron 5:freetext
+Free Text:Labels - CYYR\Apron 6:freetext
+Free Text:Labels - CYYR\Iriving Aviation:freetext
+Free Text:Labels - CYYR\Terminal:freetext
+Free Text:Labels - CYYR\Tower:freetext
+Free Text:Labels - CYYR\Woodward Aviation:freetext
+Free Text:Labels - CYYT\2:freetext
+Free Text:Labels - CYYT\3:freetext
+Free Text:Labels - CYYT\4:freetext
+Free Text:Labels - CYYT\5:freetext
+Free Text:Labels - CYYT\6:freetext
+Free Text:Labels - CYYT\Airfield Maintence:freetext
+Free Text:Labels - CYYT\Apron 1:freetext
+Free Text:Labels - CYYT\Apron 2:freetext
+Free Text:Labels - CYYT\Apron 3:freetext
+Free Text:Labels - CYYT\Apron 4:freetext
+Free Text:Labels - CYYT\Apron 5:freetext
+Free Text:Labels - CYYT\Apron 6:freetext
+Free Text:Labels - CYYT\Cargojet:freetext
+Free Text:Labels - CYYT\Cougar Helicopters:freetext
+Free Text:Labels - CYYT\Irving Aviation:freetext
+Free Text:Labels - CYYT\Terminal:freetext
+Free Text:Labels - CYYT\Torbay Aero:freetext
+Free Text:Labels - CYZX\Lima E:freetext
+Free Text:Labels - CYZX\Lima W:freetext
+Free Text:Labels - CYZX\Tower:freetext
+Free Text:Labels - LFVP\Gnd Facilities:freetext
+Free Text:Labels - LFVP\Hangar:freetext
+Free Text:Labels - LFVP\Terminal:freetext
+Free Text:Labels - LFVP\Tower:freetext
+Free Text:Taxiways - CYAW\16H:freetext
+Free Text:Taxiways - CYAW\34H:freetext
+Free Text:Taxiways - CYAW\A:freetext
+Free Text:Taxiways - CYAW\A:freetext
+Free Text:Taxiways - CYAW\B:freetext
+Free Text:Taxiways - CYAW\F:freetext
+Free Text:Taxiways - CYFC\A:freetext
+Free Text:Taxiways - CYFC\B:freetext
+Free Text:Taxiways - CYFC\C:freetext
+Free Text:Taxiways - CYFC\D:freetext
+Free Text:Taxiways - CYFC\D:freetext
+Free Text:Taxiways - CYFC\D:freetext
+Free Text:Taxiways - CYHZ\A:freetext
+Free Text:Taxiways - CYHZ\A:freetext
+Free Text:Taxiways - CYHZ\A:freetext
+Free Text:Taxiways - CYHZ\B:freetext
+Free Text:Taxiways - CYHZ\C:freetext
+Free Text:Taxiways - CYHZ\D:freetext
+Free Text:Taxiways - CYHZ\E:freetext
+Free Text:Taxiways - CYHZ\F:freetext
+Free Text:Taxiways - CYHZ\G:freetext
+Free Text:Taxiways - CYHZ\H:freetext
+Free Text:Taxiways - CYHZ\J:freetext
+Free Text:Taxiways - CYHZ\K:freetext
+Free Text:Taxiways - CYHZ\K:freetext
+Free Text:Taxiways - CYHZ\L:freetext
+Free Text:Taxiways - CYHZ\M:freetext
+Free Text:Taxiways - CYQM\A:freetext
+Free Text:Taxiways - CYQM\A:freetext
+Free Text:Taxiways - CYQM\B:freetext
+Free Text:Taxiways - CYQM\C:freetext
+Free Text:Taxiways - CYQM\D:freetext
+Free Text:Taxiways - CYQM\E:freetext
+Free Text:Taxiways - CYQM\F:freetext
+Free Text:Taxiways - CYQX\A:freetext
+Free Text:Taxiways - CYQX\A:freetext
+Free Text:Taxiways - CYQX\A:freetext
+Free Text:Taxiways - CYQX\A:freetext
+Free Text:Taxiways - CYQX\B:freetext
+Free Text:Taxiways - CYQX\B:freetext
+Free Text:Taxiways - CYQX\C:freetext
+Free Text:Taxiways - CYQX\D:freetext
+Free Text:Taxiways - CYQX\E:freetext
+Free Text:Taxiways - CYQX\F:freetext
+Free Text:Taxiways - CYQX\G:freetext
+Free Text:Taxiways - CYYR\A:freetext
+Free Text:Taxiways - CYYR\A:freetext
+Free Text:Taxiways - CYYR\A:freetext
+Free Text:Taxiways - CYYR\A1:freetext
+Free Text:Taxiways - CYYR\B:freetext
+Free Text:Taxiways - CYYR\C:freetext
+Free Text:Taxiways - CYYR\D:freetext
+Free Text:Taxiways - CYYR\F:freetext
+Free Text:Taxiways - CYYR\G:freetext
+Free Text:Taxiways - CYYR\H:freetext
+Free Text:Taxiways - CYYR\J:freetext
+Free Text:Taxiways - CYYR\K:freetext
+Free Text:Taxiways - CYYR\M:freetext
+Free Text:Taxiways - CYYR\N:freetext
+Free Text:Taxiways - CYYR\P:freetext
+Free Text:Taxiways - CYYR\P:freetext
+Free Text:Taxiways - CYYR\P:freetext
+Free Text:Taxiways - CYYR\P:freetext
+Free Text:Taxiways - CYYR\Q:freetext
+Free Text:Taxiways - CYYR\Q:freetext
+Free Text:Taxiways - CYYT\B:freetext
+Free Text:Taxiways - CYYT\C:freetext
+Free Text:Taxiways - CYYT\D:freetext
+Free Text:Taxiways - CYYT\D:freetext
+Free Text:Taxiways - CYYT\F:freetext
+Free Text:Taxiways - CYYT\G:freetext
+Free Text:Taxiways - CYYT\H:freetext
+Free Text:Taxiways - CYYT\J:freetext
+Free Text:Taxiways - CYYT\K:freetext
+Free Text:Taxiways - CYZX\A:freetext
+Free Text:Taxiways - CYZX\A:freetext
+Free Text:Taxiways - CYZX\B:freetext
+Free Text:Taxiways - CYZX\B:freetext
+Free Text:Taxiways - CYZX\E:freetext
+Free Text:Taxiways - CYZX\F:freetext
+Free Text:Taxiways - CYZX\F:freetext
+Free Text:Taxiways - CYZX\F:freetext
+Free Text:Taxiways - CYZX\G:freetext
+Free Text:Taxiways - CYZX\H:freetext
+Free Text:Taxiways - CYZX\J:freetext
+Free Text:Taxiways - CYZX\K:freetext
+Free Text:Taxiways - CYZX\L:freetext
+Free Text:Taxiways - CYZX\M:freetext
+Free Text:Taxiways - CYZX\R:freetext
+Free Text:Taxiways - LFVP\E:freetext
+Free Text:Taxiways - LFVP\W:freetext
+Geo:GEO:
+Geo:Ground Closure:
+Geo:Ground Deice:
+Geo:Ground Holdbar:
+Geo:Ground LeadIn:
+Geo:Ground Taxilanes:
+Geo:Ground Threshold:
+Regions:CYAW Ground:polygon
+Regions:CYFC Ground:polygon
+Regions:CYHZ Ground:polygon
+Regions:CYQM Ground:polygon
+Regions:CYQX Ground:polygon
+Regions:CYYR Ground:polygon
+Regions:CYYT Ground:polygon
+Regions:CYZX Ground:polygon
+Regions:LFVP Ground:polygon
+Runways:CYFC 09-27:name
+Runways:CYFC 15-33:name
+Runways:CYHZ 05-23:name
+Runways:CYHZ 14-32:name
+Runways:CYQM 06-24:name
+Runways:CYQM 11-29:name
+Runways:CYQX 03-21:name
+Runways:CYQX 13-31:name
+Runways:CYYR 08-26:name
+Runways:CYYR 15-33:name
+Runways:CYYT 02-20:name
+Runways:CYYT 11-29:name
+Runways:CYYT 16-34:name
+Runways:CYZX 08-26:name
+Runways:CYZX 12-30:name
+Runways:LFVP 08-26:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:38.00000
+TAGFAMILY:CSiT
+WINDOWAREA:44.868585:-63.552944:44.895455:-63.479936
+PLUGIN:VATCANSitu:altFilterHigh:1
+PLUGIN:VATCANSitu:altFilterLow:1
+PLUGIN:VATCANSitu:DisplayTypeName:GND

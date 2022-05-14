@@ -1,0 +1,32 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:All:
+ARTCC boundary:High:
+ARTCC boundary:ZBW:
+ARTCC boundary:ZEG:
+ARTCC boundary:ZQO:
+ARTCC boundary:ZQO Hi:
+ARTCC boundary:ZUL:
+ARTCC high boundary:QM Hi Splits:
+ARTCC high boundary:QX Hi Splits:
+ARTCC high boundary:ZBW Splits:
+ARTCC high boundary:ZQO Hi Splits:
+ARTCC high boundary:ZUL Hi Splits:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:18.00000
+TAGFAMILY:CSiT
+WINDOWAREA:38.490759:-105.460836:72.404816:-13.311528
+PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterLow:5
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

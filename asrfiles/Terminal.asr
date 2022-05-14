@@ -1,0 +1,780 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:All:
+ARTCC boundary:GOTAM:
+ARTCC boundary:GOTAX:
+ARTCC boundary:Low:
+ARTCC boundary:ZBW:
+ARTCC boundary:ZEG:
+ARTCC boundary:ZQO:
+ARTCC boundary:ZQO Lo:
+ARTCC boundary:ZUL:
+ARTCC high boundary:Airspace Advisory:
+ARTCC high boundary:Airspace Restricted:
+ARTCC high boundary:Control Zones:
+ARTCC high boundary:ZBW Splits:
+ARTCC high boundary:ZQO Lo Splits:
+ARTCC high boundary:ZUL Lo Splits:
+ARTCC low boundary:LowQM:
+ARTCC low boundary:LowQX:
+ARTCC low boundary:TmlQX:
+Fixes:AARAN:symbol
+Fixes:ACTON:symbol
+Fixes:ADREK:symbol
+Fixes:ADRET:symbol
+Fixes:ADVAM:symbol
+Fixes:AGMIR:symbol
+Fixes:ALLEX:symbol
+Fixes:ALOGU:symbol
+Fixes:ALOVI:symbol
+Fixes:ALSOM:symbol
+Fixes:ALVUX:symbol
+Fixes:AMEBU:symbol
+Fixes:ANVUB:symbol
+Fixes:APGIN:symbol
+Fixes:APLOR:symbol
+Fixes:APMIX:symbol
+Fixes:APMOD:symbol
+Fixes:APNOT:symbol
+Fixes:ARDEE:symbol
+Fixes:ATLAN:symbol
+Fixes:AVODA:symbol
+Fixes:AVSAG:symbol
+Fixes:AVTIG:symbol
+Fixes:AXAMO:symbol
+Fixes:BADDY:symbol
+Fixes:BAFDY:symbol
+Fixes:BAJER:symbol
+Fixes:BALFE:symbol
+Fixes:BEITH:symbol
+Fixes:BEMEK:symbol
+Fixes:BOGLO:symbol
+Fixes:BOGPI:symbol
+Fixes:BOJTO:symbol
+Fixes:BONIG:symbol
+Fixes:BOOTI:symbol
+Fixes:BOSEK:symbol
+Fixes:BOSIR:symbol
+Fixes:BOSUB:symbol
+Fixes:BOXAB:symbol
+Fixes:BOXEM:symbol
+Fixes:CAAPE:symbol
+Fixes:CASID:symbol
+Fixes:CAYLY:symbol
+Fixes:CHATH:symbol
+Fixes:COLEJ:symbol
+Fixes:CROSI:symbol
+Fixes:CYPTI:symbol
+Fixes:DAMOX:symbol
+Fixes:DARIM:symbol
+Fixes:DASGU:symbol
+Fixes:DATKA:symbol
+Fixes:DAVAK:symbol
+Fixes:DAVIG:symbol
+Fixes:DAVUD:symbol
+Fixes:DEKLA:symbol
+Fixes:DENSO:symbol
+Fixes:DUGVO:symbol
+Fixes:DULBA:symbol
+Fixes:DUMRO:symbol
+Fixes:DUNPI:symbol
+Fixes:DURAD:symbol
+Fixes:DUREV:symbol
+Fixes:DUSAP:symbol
+Fixes:DUSEN:symbol
+Fixes:DUSPU:symbol
+Fixes:DUTIK:symbol
+Fixes:DUTIR:symbol
+Fixes:DUTSA:symbol
+Fixes:DUVEK:symbol
+Fixes:EBDAX:symbol
+Fixes:EBGID:symbol
+Fixes:EBKID:symbol
+Fixes:EBLOM:symbol
+Fixes:EBLUD:symbol
+Fixes:EBLUG:symbol
+Fixes:EBMEB:symbol
+Fixes:EBMEP:symbol
+Fixes:EBONY:symbol
+Fixes:ELERI:symbol
+Fixes:EMBAX:symbol
+Fixes:EMBOL:symbol
+Fixes:EMEGI:symbol
+Fixes:EMLEL:symbol
+Fixes:EMOKO:symbol
+Fixes:EMOSI:symbol
+Fixes:EPLOR:symbol
+Fixes:EPLUN:symbol
+Fixes:EPSAR:symbol
+Fixes:EPVAG:symbol
+Fixes:ERBAX:symbol
+Fixes:ETGAR:symbol
+Fixes:FAFKO:symbol
+Fixes:FRENN:symbol
+Fixes:FVM12:symbol
+Fixes:FVM30:symbol
+Fixes:FVP08:symbol
+Fixes:FVP26:symbol
+Fixes:GABAB:symbol
+Fixes:GABAP:symbol
+Fixes:GAGBU:symbol
+Fixes:GAURA:symbol
+Fixes:GIBBY:symbol
+Fixes:GOSIN:symbol
+Fixes:GOXOP:symbol
+Fixes:GUBIB:symbol
+Fixes:GUDOB:symbol
+Fixes:GUFFY:symbol
+Fixes:HADRI:symbol
+Fixes:HALIO:symbol
+Fixes:HOROW:symbol
+Fixes:HULTN:symbol
+Fixes:IGTAS:symbol
+Fixes:IGVES:symbol
+Fixes:IGVOP:symbol
+Fixes:IGVUP:symbol
+Fixes:IKBUN:symbol
+Fixes:IKDEM:symbol
+Fixes:IKDIX:symbol
+Fixes:IKNIB:symbol
+Fixes:IKNOX:symbol
+Fixes:IMANO:symbol
+Fixes:IMERO:symbol
+Fixes:IMOPA:symbol
+Fixes:IMOSA:symbol
+Fixes:IMUMA:symbol
+Fixes:IRDUV:symbol
+Fixes:ITKUD:symbol
+Fixes:ITMAK:symbol
+Fixes:ITPAX:symbol
+Fixes:ITPUS:symbol
+Fixes:IVM12:symbol
+Fixes:IVM30:symbol
+Fixes:IVP08:symbol
+Fixes:IVP26:symbol
+Fixes:JIMEN:symbol
+Fixes:KAPAT:symbol
+Fixes:KATLO:symbol
+Fixes:KAVKA:symbol
+Fixes:KEDAL:symbol
+Fixes:KEKDA:symbol
+Fixes:KEKDI:symbol
+Fixes:KELNO:symbol
+Fixes:KEPMI:symbol
+Fixes:KESTI:symbol
+Fixes:KINIP:symbol
+Fixes:KIPOT:symbol
+Fixes:KITAS:symbol
+Fixes:LERES:symbol
+Fixes:LEROS:symbol
+Fixes:LESIX:symbol
+Fixes:LESUP:symbol
+Fixes:LEVAD:symbol
+Fixes:LEVIB:symbol
+Fixes:LEVUB:symbol
+Fixes:LEXUN:symbol
+Fixes:LIBOD:symbol
+Fixes:LIRLA:symbol
+Fixes:LODGU:symbol
+Fixes:LOKRI:symbol
+Fixes:LONBA:symbol
+Fixes:LOPMA:symbol
+Fixes:MASIN:symbol
+Fixes:MEGMI:symbol
+Fixes:MEGVU:symbol
+Fixes:MEMVU:symbol
+Fixes:MIROB:symbol
+Fixes:MITIK:symbol
+Fixes:MITOX:symbol
+Fixes:MIVAD:symbol
+Fixes:MOBUX:symbol
+Fixes:MODIR:symbol
+Fixes:MOWND:symbol
+Fixes:MUVOX:symbol
+Fixes:NABIN:symbol
+Fixes:NABUB:symbol
+Fixes:NAPKU:symbol
+Fixes:NOSUL:symbol
+Fixes:NOTOP:symbol
+Fixes:NOVOV:symbol
+Fixes:NUBEB:symbol
+Fixes:NUGUM:symbol
+Fixes:NUTBY:symbol
+Fixes:OBNAS:symbol
+Fixes:OBNOM:symbol
+Fixes:OBVUP:symbol
+Fixes:ODKAS:symbol
+Fixes:OGDAN:symbol
+Fixes:OLABO:symbol
+Fixes:OLEPA:symbol
+Fixes:OLESO:symbol
+Fixes:OMOTA:symbol
+Fixes:OMPAP:symbol
+Fixes:OMRUM:symbol
+Fixes:OMVEV:symbol
+Fixes:OMVIX:symbol
+Fixes:ONBOV:symbol
+Fixes:ONDAP:symbol
+Fixes:OTETI:symbol
+Fixes:OTNOB:symbol
+Fixes:OTOBU:symbol
+Fixes:OTPOB:symbol
+Fixes:OTVUV:symbol
+Fixes:OVAPU:symbol
+Fixes:PAULO:symbol
+Fixes:PEKRO:symbol
+Fixes:PEKRU:symbol
+Fixes:PELBI:symbol
+Fixes:PEPMU:symbol
+Fixes:PERLU:symbol
+Fixes:PESDO:symbol
+Fixes:PIBMI:symbol
+Fixes:PIKLI:symbol
+Fixes:PIKSI:symbol
+Fixes:PILKU:symbol
+Fixes:PRENT:symbol
+Fixes:RADUL:symbol
+Fixes:RIKIB:symbol
+Fixes:ROGDO:symbol
+Fixes:RONGA:symbol
+Fixes:ROPTU:symbol
+Fixes:SATAK:symbol
+Fixes:SATIV:symbol
+Fixes:SCOAT:symbol
+Fixes:SEBER:symbol
+Fixes:SENVI:symbol
+Fixes:SILRO:symbol
+Fixes:SUVIP:symbol
+Fixes:SUXIP:symbol
+Fixes:TADKA:symbol
+Fixes:TESOX:symbol
+Fixes:TETAR:symbol
+Fixes:TEXED:symbol
+Fixes:TEXOX:symbol
+Fixes:TIBIM:symbol
+Fixes:TIGOR:symbol
+Fixes:TIMAT:symbol
+Fixes:TOXIB:symbol
+Fixes:TUSKY:symbol
+Fixes:UDGUN:symbol
+Fixes:UDMUV:symbol
+Fixes:UKIGI:symbol
+Fixes:UKNUL:symbol
+Fixes:UKOBO:symbol
+Fixes:ULBER:symbol
+Fixes:UMALA:symbol
+Fixes:UMETI:symbol
+Fixes:URLOX:symbol
+Fixes:URNOD:symbol
+Fixes:URPIS:symbol
+Fixes:VERBI:symbol
+Fixes:VESBI:symbol
+Fixes:VETSU:symbol
+Fixes:VEVRI:symbol
+Fixes:VIBMA:symbol
+Fixes:VIDSI:symbol
+Fixes:VIKBO:symbol
+Fixes:VILRI:symbol
+Fixes:VIPKO:symbol
+Fixes:VIRDU:symbol
+Fixes:VIXUL:symbol
+Fixes:VM301:symbol
+Fixes:VM302:symbol
+Fixes:VM401:symbol
+Fixes:VM402:symbol
+Fixes:VOGIN:symbol
+Fixes:VOGOL:symbol
+Fixes:VOKAP:symbol
+Fixes:VOKIL:symbol
+Fixes:VP001:symbol
+Fixes:VP002:symbol
+Fixes:VP300:symbol
+Fixes:VP400:symbol
+Fixes:VP401:symbol
+Fixes:VP402:symbol
+Fixes:VP500:symbol
+Fixes:VP501:symbol
+Fixes:VP502:symbol
+Fixes:XESUD:symbol
+Fixes:XETOL:symbol
+Fixes:XOVAT:symbol
+Fixes:XUBTO:symbol
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Free Text:SCT2\·:freetext
+Geo:GEO:
+NDBs:F9:symbol
+NDBs:FC:symbol
+NDBs:MQ:symbol
+NDBs:QM:symbol
+NDBs:SP:symbol
+NDBs:YZX:symbol
+Runways:CYAW 16-34:centerline
+Runways:CYAY 10-28:centerline
+Runways:CYDF 07-25:centerline
+Runways:CYFC 09-27:centerline
+Runways:CYFC 15-33:centerline
+Runways:CYGR 07-25:centerline
+Runways:CYGR 16-34:centerline
+Runways:CYHZ 05-23:centerline
+Runways:CYHZ 14-32:centerline
+Runways:CYJT 09-27:centerline
+Runways:CYQI 06-24:centerline
+Runways:CYQI 15-33:centerline
+Runways:CYQM 06-24:centerline
+Runways:CYQM 11-29:centerline
+Runways:CYQX 03-21:centerline
+Runways:CYQX 13-31:centerline
+Runways:CYQY 06-24:centerline
+Runways:CYQY 18-36:centerline
+Runways:CYSJ 05-23:centerline
+Runways:CYSJ 14-32:centerline
+Runways:CYYG 03-21:centerline
+Runways:CYYG 10-28:centerline
+Runways:CYYR 08-26:centerline
+Runways:CYYR 15-33:centerline
+Runways:CYYT 02-20:centerline
+Runways:CYYT 11-29:centerline
+Runways:CYYT 16-34:centerline
+Runways:CYZX 08-26:centerline
+Runways:CYZX 12-30:centerline
+Runways:LFVM 12-30:centerline
+Runways:LFVP 08-26:centerline
+Sids:Victor Airways:
+Stars:SID LFVP DEPS:
+Stars:STAR CYHZ TRANS:
+Stars:STAR LFVP ARRS:
+Stars:Tango Airways:
+Stars:TCA CYFC:
+Stars:TCA CYHZ:
+Stars:TCA CYQM:
+Stars:TCA CYQX:
+Stars:TCA CYSJ:
+Stars:TCA CYYG:
+Stars:TCA CYYR:
+Stars:TCA CYYT:
+Stars:TCA LFVP:
+VORs:AUG:symbol
+VORs:BGR:symbol
+VORs:BOS:symbol
+VORs:ENE:symbol
+VORs:MLT:symbol
+VORs:PQI:symbol
+VORs:VBS:symbol
+VORs:YAY:symbol
+VORs:YBC:symbol
+VORs:YDF:symbol
+VORs:YFB:symbol
+VORs:YFC:symbol
+VORs:YGP:symbol
+VORs:YHZ:symbol
+VORs:YJT:symbol
+VORs:YNA:symbol
+VORs:YQB:symbol
+VORs:YQM:symbol
+VORs:YQX:symbol
+VORs:YQY:symbol
+VORs:YRI:symbol
+VORs:YSJ:symbol
+VORs:YVP:symbol
+VORs:YWK:symbol
+VORs:YYG:symbol
+VORs:YYR:symbol
+VORs:YYT:symbol
+VORs:YYY:symbol
+VORs:YZV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:18.00000
+TAGFAMILY:CSiT
+WINDOWAREA:38.490759:-105.460836:72.404816:-13.311528
+PLUGIN:VATCANSitu:altFilterHigh:295
+PLUGIN:VATCANSitu:altFilterLow:5
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

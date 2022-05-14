@@ -1,0 +1,147 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:CYAY:symbol
+Airports:CYDF:symbol
+Airports:CYGR:symbol
+Airports:CYJT:symbol
+Airports:CYQI:symbol
+Airports:CYQY:symbol
+ARTCC boundary:All:
+ARTCC boundary:GOTAM:
+ARTCC boundary:GOTAX:
+ARTCC boundary:High:
+ARTCC boundary:Low:
+ARTCC boundary:ZBW:
+ARTCC boundary:ZEG:
+ARTCC boundary:ZQO:
+ARTCC boundary:ZQO Hi:
+ARTCC boundary:ZQO Lo:
+ARTCC boundary:ZUL:
+ARTCC high boundary:Airspace Advisory:
+ARTCC high boundary:Airspace Danger:
+ARTCC high boundary:Airspace Restricted:
+ARTCC high boundary:Control Zones:
+ARTCC low boundary:LowQM:
+ARTCC low boundary:LowQX:
+ARTCC low boundary:TmlQM:
+ARTCC low boundary:TmlQX:
+Fixes:ACTON:symbol
+Fixes:ARDEE:symbol
+Fixes:ATLAN:symbol
+Fixes:BEMEK:symbol
+Fixes:BOSUB:symbol
+Fixes:CAAPE:symbol
+Fixes:DARIM:symbol
+Fixes:DENSO:symbol
+Fixes:DULBA:symbol
+Fixes:DUSEN:symbol
+Fixes:ETGAR:symbol
+Fixes:FRENN:symbol
+Fixes:HULTN:symbol
+Fixes:IGTAS:symbol
+Fixes:IKBUN:symbol
+Fixes:IRDUV:symbol
+Fixes:ITPAX:symbol
+Fixes:KATLO:symbol
+Fixes:KELNO:symbol
+Fixes:KESTI:symbol
+Fixes:LIRLA:symbol
+Fixes:LOKRI:symbol
+Fixes:MIVAD:symbol
+Fixes:MOWND:symbol
+Fixes:MUVOX:symbol
+Fixes:NOTOP:symbol
+Fixes:NUTBY:symbol
+Fixes:PAULO:symbol
+Fixes:PEKRO:symbol
+Fixes:PERLU:symbol
+Fixes:PRENT:symbol
+Fixes:SENVI:symbol
+Fixes:SILRO:symbol
+Fixes:TEXED:symbol
+Fixes:TIGOR:symbol
+Fixes:UMETI:symbol
+Geo:GEO:
+NDBs:F9:symbol
+NDBs:FC:symbol
+NDBs:QM:symbol
+NDBs:YZX:symbol
+Runways:CYAW 16-34:centerline
+Runways:CYFC 09-27:centerline
+Runways:CYFC 15-33:centerline
+Runways:CYHZ 05-23:centerline
+Runways:CYHZ 14-32:centerline
+Runways:CYQM 06-24:centerline
+Runways:CYQM 11-29:centerline
+Runways:CYQX 03-21:centerline
+Runways:CYQX 13-31:centerline
+Runways:CYSJ 05-23:centerline
+Runways:CYSJ 14-32:centerline
+Runways:CYYG 03-21:centerline
+Runways:CYYG 10-28:centerline
+Runways:CYYR 08-26:centerline
+Runways:CYYR 15-33:centerline
+Runways:CYYT 02-20:centerline
+Runways:CYYT 11-29:centerline
+Runways:CYYT 16-34:centerline
+Runways:CYZX 08-26:centerline
+Runways:CYZX 12-30:centerline
+Runways:LFVP 08-26:centerline
+Sids:Victor Airways:
+Stars:Tango Airways:
+Stars:TCA CYFC:
+Stars:TCA CYHZ:
+Stars:TCA CYQM:
+Stars:TCA CYQX:
+Stars:TCA CYSJ:
+Stars:TCA CYYG:
+Stars:TCA CYYR:
+Stars:TCA CYYT:
+Stars:TCA LFVP:
+VORs:AUG:symbol
+VORs:BGR:symbol
+VORs:BOS:symbol
+VORs:ENE:symbol
+VORs:MLT:symbol
+VORs:PQI:symbol
+VORs:VBS:symbol
+VORs:YAY:symbol
+VORs:YBC:symbol
+VORs:YDF:symbol
+VORs:YFB:symbol
+VORs:YFC:symbol
+VORs:YGP:symbol
+VORs:YHZ:symbol
+VORs:YJT:symbol
+VORs:YNA:symbol
+VORs:YQB:symbol
+VORs:YQM:symbol
+VORs:YQX:symbol
+VORs:YQY:symbol
+VORs:YRI:symbol
+VORs:YSJ:symbol
+VORs:YVP:symbol
+VORs:YWK:symbol
+VORs:YYG:symbol
+VORs:YYR:symbol
+VORs:YYT:symbol
+VORs:YYY:symbol
+VORs:YZV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:18.00000
+TAGFAMILY:CSiT
+WINDOWAREA:38.490759:-105.460836:72.404816:-13.311528
+PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterLow:5
+PLUGIN:VATCANSitu:DisplayTypeName:IFR
