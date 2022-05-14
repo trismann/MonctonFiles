@@ -6,7 +6,7 @@ Main changes include redrawn .asr files, cleaned up .sct/.ese files, realistic r
 
 ### Installation
 It is reccomended to have the default CanScope/EuroScope settings files installed with a separate profile as to not conflict with other files that may be saved.
-To install, simply load the CZQM.sct, CZQM LiveATC, CZQM Login Profiles, and CZQM Symbology files.
+To install, download the source code zip from the [latest release](https://github.com/trismann/MonctonFiles/releases), and load the CZQM.sct, CZQM LiveATC, CZQM Login Profiles, and CZQM Symbology files.
 
 ### Acknowledgment
 This file utilizies existing boundaries provided in the default Moncton/Gander FIR Sector Files and updated based on data obtained from the 
